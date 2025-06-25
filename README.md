@@ -1,4 +1,4 @@
-# Antoniμ
+# Hey there! 👋 I'm Antoniμ 🌱
 
 Embedded Linux • IoT • Automation
 
@@ -7,6 +7,9 @@ Embedded Linux • IoT • Automation
 [⚡] Python/C/C++       [🔧] Docker/Ansible
 ```
 
-Building smart systems at **Social Mirror ApS**
+Cultivating smart systems at **Social Mirror ApS** 🌿
 
-*Making hardware and software play nice together* ✨
+*Where technology blooms into intelligent solutions* ✨🍀
+
+---
+*Welcome to my digital garden! Feel free to explore and connect* 🌸
