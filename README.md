@@ -1,15 +1,53 @@
-# Hey there! 👋 I'm Antoniμ 🌱
-
-Embedded Linux • IoT • Automation
+# Hello! I'm Antoniμ 🌱
 
 ```
-[🐧] Yocto/BuildRoot    [🤖] Raspberry Pi
-[⚡] Python/C/C++       [🔧] Docker/Ansible
+    🌿 Welcome to my digital greenhouse 🌿
+   ╭─────────────────────────────────────╮
+   │  Growing code since... forever! 🌱  │
+   ╰─────────────────────────────────────╯
 ```
 
-Cultivating smart systems at **Social Mirror ApS** 🌿
+**🚀 What I do:** Embedded Linux • IoT • Automation
 
-*Where technology blooms into intelligent solutions* ✨🍀
+```
+┌─ Tech Garden ────────────────────────┐
+│ 🐧 Linux Ecosystems                  │
+│   ├── Yocto Project                  │
+│   └── BuildRoot                      │
+│                                      │
+│ 🤖 IoT Cultivation                   │
+│   ├── Raspberry Pi farms             │
+│   └── Smart sensor networks          │
+│                                      │
+│ ⚡ Code Varieties                     │
+│   ├── Python (favorite!) 🐍          │
+│   ├── C/C++ (reliable) 💪            │
+│   └── Bash (automation magic) ✨      │
+│                                      │
+│ 🔧 DevOps Tools                      │
+│   ├── Docker containers 📦           │
+│   └── Ansible playbooks 🎭           │
+└──────────────────────────────────────┘
+```
+
+**🏢 Currently:** Nurturing smart systems at **Social Mirror ApS** 🌿
+
+**🌱 Fun Stats:**
+- ☕ Coffee consumed: `∞ cups`
+- 🐛 Bugs fixed: `counting...`
+- 🎯 Current mission: Making IoT devices smarter
+- 🌙 Night owl coder: `true`
 
 ---
-*Welcome to my digital garden! Feel free to explore and connect* 🌸
+
+```
+while (learning) {
+    plant_new_ideas() 🌱;
+    water_with_coffee() ☕;
+    watch_code_grow() 🌿;
+}
+```
+
+*Where hardware and software grow in perfect harmony* ✨🍃
+
+**💌 Let's connect and grow something amazing together!**
