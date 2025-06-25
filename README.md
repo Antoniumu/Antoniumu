@@ -1,53 +1,62 @@
-# Hello! I'm Antoniμ 🌱
+# 🧪 Dr. Antoniμ's Tech Laboratory 🌱
 
 ```
-    🌿 Welcome to my digital greenhouse 🌿
-   ╭─────────────────────────────────────╮
-   │  Growing code since... forever! 🌱  │
-   ╰─────────────────────────────────────╯
+┌─ LABORATORY STATUS ─────────────────────────┐
+│ 🔬 Researcher: Antoniμ                      │
+│ 🏢 Institution: Social Mirror ApS          │
+│ 🧬 Research Focus: Embedded Systems         │
+│ ⚗️ Current Experiment: IoT Optimization     │
+│ 📊 Success Rate: 98.7%                     │
+└─────────────────────────────────────────────┘
 ```
 
-**🚀 What I do:** Embedded Linux • IoT • Automation
+**🔬 Research Areas:**
 
-```
-┌─ Tech Garden ────────────────────────┐
-│ 🐧 Linux Ecosystems                  │
-│   ├── Yocto Project                  │
-│   └── BuildRoot                      │
-│                                      │
-│ 🤖 IoT Cultivation                   │
-│   ├── Raspberry Pi farms             │
-│   └── Smart sensor networks          │
-│                                      │
-│ ⚡ Code Varieties                     │
-│   ├── Python (favorite!) 🐍          │
-│   ├── C/C++ (reliable) 💪            │
-│   └── Bash (automation magic) ✨      │
-│                                      │
-│ 🔧 DevOps Tools                      │
-│   ├── Docker containers 📦           │
-│   └── Ansible playbooks 🎭           │
-└──────────────────────────────────────┘
-```
-
-**🏢 Currently:** Nurturing smart systems at **Social Mirror ApS** 🌿
-
-**🌱 Fun Stats:**
-- ☕ Coffee consumed: `∞ cups`
-- 🐛 Bugs fixed: `counting...`
-- 🎯 Current mission: Making IoT devices smarter
-- 🌙 Night owl coder: `true`
-
----
-
-```
-while (learning) {
-    plant_new_ideas() 🌱;
-    water_with_coffee() ☕;
-    watch_code_grow() 🌿;
+```python
+lab_equipment = {
+    "🐧 Linux_Specimens": {
+        "Yocto": "🧬 Custom OS DNA sequencing",
+        "BuildRoot": "🔬 Minimal system cultivation"
+    },
+    "🤖 IoT_Organisms": {
+        "RaspberryPi": "🌱 Hardware ecosystem growth", 
+        "Sensors": "📡 Environmental data collection"
+    },
+    "⚡ Code_Cultures": {
+        "Python": "🐍 Rapid prototyping strain",
+        "C_CPP": "💪 Performance optimization breed",
+        "Bash": "🧪 Automation catalyst"
+    },
+    "🔧 DevOps_Tools": {
+        "Docker": "📦 Containerized environments",
+        "Ansible": "🎭 Configuration orchestration"
+    }
 }
 ```
 
-*Where hardware and software grow in perfect harmony* ✨🍃
+**📈 Current Experiments:**
 
-**💌 Let's connect and grow something amazing together!**
+| Experiment | Status | Progress | Notes |
+|------------|--------|----------|-------|
+| 🖥️ Kiosk Evolution | 🟢 Active | 85% | Promising results! |
+| 🤖 Fleet Management | 🟡 Testing | 72% | Scaling challenges |
+| 🔐 Security Hardening | 🟢 Active | 90% | Nearly bulletproof |
+| 🧠 LLM Integration | 🔵 Research | 45% | Early prototype |
+
+**🌿 Lab Philosophy:**
+> *"Every bug is just an undiscovered feature waiting to bloom"*
+
+**📊 Daily Metrics:**
+- ☕ Coffee consumed: `brew --continuous`
+- 🔄 Deploy cycles: `while(true)`
+- 🌱 Ideas sprouted: `git log --oneline | wc -l`
+- 😊 Team happiness: `MAX_VALUE`
+
+---
+
+**🤝 Seeking Research Collaborators:**
+- 🌟 Fellow mad scientists
+- 🚀 Innovation enthusiasts  
+- 🌍 World-changers through tech
+
+*Join me in making the digital world a little more intelligent!* 🧠✨
